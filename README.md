@@ -4,5 +4,5 @@ You need install these:
 * C/C++
 * CMake
 * Ninjia
-* Clangd
+* Clangd  
 Save the CMakeLists.txt to configure cmake, and then Ctrl+Shift+P to run `clangd: restart language server`.
